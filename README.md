@@ -17,14 +17,6 @@ Always learning, always creating. 🚀
 [![Instagram](https://img.shields.io/badge/instagram-bf0030?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sofi_fuffly/)
 [![twitter/x](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SofiFuffly)
 
-
-## Tech Stack
-
-**Client:** React, babel, TailwindCSS
-
-**Server:** Node
-
-
 ## 🛠 Skills
 🚀 Languages & Technologies:
 
